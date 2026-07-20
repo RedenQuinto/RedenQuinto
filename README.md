@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=DC143C&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Red" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Red</h1>
 
-<h3 align="center">
-Software Developer | Laravel • React • TypeScript
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=DC143C&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Always+Learning+New+Technologies;Building+Modern+Web+Applications" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Building modern web applications and continuously improving my skills.
@@ -20,7 +18,8 @@ Building modern web applications and continuously improving my skills.
 
 - 💻 Software Developer
 - 🎓 BSIT Graduate
-- 🌱 Currently learning **Laravel, React, TypeScript, and Modern Web Development**
+- 🤖 AI Enthusiast
+- 🌱 Currently learning **Laravel, React, TypeScript, AI, and Modern Web Development**
 - 🚀 Developing a **CRM System for an Internet Service Provider**
 - 🎯 Goal: Become a **Full Stack Software Engineer**
 
@@ -52,6 +51,7 @@ A modern **Customer Relationship Management System** designed for an Internet Se
 
 <h2 align="center">📚 Currently Learning</h2>
 
+- Artificial Intelligence
 - Advanced Laravel
 - React Best Practices
 - REST API Development
