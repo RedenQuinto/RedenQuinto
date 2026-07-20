@@ -84,10 +84,6 @@ Always learning.
 
 ---
 
-<b>Tech Stack</b>
-
-Laravel • React • Inertia.js • TypeScript • MySQL
-
 </p>
 
 ---
