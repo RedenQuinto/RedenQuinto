@@ -6,13 +6,11 @@
 
 <p align="center">
 Building modern web applications and continuously improving my skills.
-  
-Code with purpose.
-Live without hatred.
-
-Building solutions, not conflict.
+<br><br>
+<b>Code with purpose.</b><br>
+<b>Live without hatred.</b><br><br>
+Building solutions, not conflict.<br>
 Always learning.
-
 </p>
 
 <p align="center">
@@ -23,65 +21,122 @@ Always learning.
 
 <h2 align="center">🚀 About Me</h2>
 
-- 💻 Software Developer
-- 🎓 BSIT Graduate
-- 🤖 AI Enthusiast
-- 🌱 Currently learning **Laravel, React, TypeScript, AI, and Modern Web Development**
-- 🚀 Developing a **CRM System for an Internet Service Provider**
-- 🎯 Goal: Become a **Full Stack Software Engineer**
+<p align="center">
+
+💻 Software Developer<br>
+🎓 BSIT Graduate<br>
+🤖 AI Enthusiast<br>
+🌱 Currently learning <b>Laravel, React, TypeScript, AI, and Modern Web Development</b><br>
+🚀 Developing a <b>CRM System for an Internet Service Provider</b><br>
+🎯 Goal: Become a <b>Full Stack Software Engineer</b>
+
+</p>
 
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
 
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,typescript,php,mysql,html,css,bootstrap,js,java,kotlin,cpp,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,typescript,php,html,css" />
+</p>
+
+<p align="center">
+<b>C++ • Java • Kotlin • JavaScript • TypeScript • PHP • HTML • CSS</b>
+</p>
+
+---
+
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,react,bootstrap" />
+</p>
+
+<p align="center">
+<b>Laravel • React • Bootstrap</b>
+</p>
+
+---
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p align="center">
+<b>MySQL • MongoDB</b>
+</p>
+
+---
+
+<h3 align="center">🛠 Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+<b>Git • GitHub • VS Code</b>
 </p>
 
 ---
 
 <h2 align="center">🚀 Featured Project</h2>
 
-### 📡 CRM System
+<h3 align="center">📡 CRM System</h3>
 
-A modern **Customer Relationship Management System** designed for an Internet Service Provider.
+<p align="center">
+A modern <b>Customer Relationship Management System</b><br>
+designed for an Internet Service Provider.
+</p>
 
-**Tech Stack**
+<p align="center">
 
-- Laravel
-- React
-- Inertia.js
-- TypeScript
-- MySQL
+<b>Tech Stack</b>
+
+Laravel • React • Inertia.js • TypeScript • MySQL
+
+</p>
 
 ---
 
 <h2 align="center">📚 Currently Learning</h2>
 
-- Artificial Intelligence
-- Advanced Laravel
-- React Best Practices
-- REST API Development
-- Database Optimization
-- Clean Architecture
-- Docker
+<p align="center">
+
+🤖 Artificial Intelligence<br>
+⚡ Advanced Laravel<br>
+⚛️ React Best Practices<br>
+🌐 REST API Development<br>
+🗄️ Database Optimization<br>
+🏗️ Clean Architecture<br>
+🐳 Docker
+
+</p>
 
 ---
 
 <h2 align="center">🎯 Goals for 2026</h2>
 
-- ✅ Become a Full Stack Software Engineer
-- ✅ Improve Software Architecture Skills
-- ✅ Learn Docker & DevOps
-- ✅ Contribute to Open Source Projects
-- ✅ Continue Building Modern Web Applications
+<p align="center">
+
+✅ Become a Full Stack Software Engineer<br>
+✅ Improve Software Architecture Skills<br>
+✅ Learn Docker & DevOps<br>
+✅ Contribute to Open Source Projects<br>
+✅ Continue Building Modern Web Applications
+
+</p>
 
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" />
 </p>
 
 ---
