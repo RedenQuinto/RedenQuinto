@@ -84,17 +84,6 @@ Always learning.
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
-
-<h3 align="center">📡 CRM System</h3>
-
-<p align="center">
-A modern <b>Customer Relationship Management System</b><br>
-designed for an Internet Service Provider.
-</p>
-
-<p align="center">
-
 <b>Tech Stack</b>
 
 Laravel • React • Inertia.js • TypeScript • MySQL
@@ -131,16 +120,4 @@ Laravel • React • Inertia.js • TypeScript • MySQL
 
 </p>
 
----
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" />
-</p>
-
----
-
-<p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
