@@ -5,35 +5,46 @@ Software Developer | Laravel • React • TypeScript
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Developer;Laravel+Developer;React+%2B+TypeScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
 Building modern web applications and continuously improving my skills.
 </p>
 
----
-
-## 🚀 About Me
-
-- 💻 Software Developer
-- 🎓 BSIT Graduate
-- 🌱 Currently learning **Laravel, React, TypeScript, and modern web development**
-- 🚀 Developing a **CRM System for an Internet Service Provider**
-- 🎯 Goal: Become a Full Stack Software Engineer
-
----
-
-## 🛠 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,react,typescript,php,mysql,html,css,bootstrap,js,java,kotlin,cpp,git,github,vscode&perline=5" />
+<i>"Turning ideas into reality through code."</i>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 About Me</h2>
+
+- 💻 Software Developer
+- 🎓 BSIT Graduate
+- 🌱 Currently learning **Laravel, React, TypeScript, and Modern Web Development**
+- 🚀 Developing a **CRM System for an Internet Service Provider**
+- 🤖 Building an **AI-Powered POS System**
+- 🎯 Goal: Become a **Full Stack Software Engineer**
+
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,typescript,php,mysql,html,css,bootstrap,js,java,kotlin,cpp,git,github,vscode&perline=5" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 📡 CRM System
-A modern Customer Relationship Management system for an Internet Service Provider.
+
+A modern **Customer Relationship Management System** designed for an Internet Service Provider.
 
 **Tech Stack**
+
 - Laravel
 - React
 - Inertia.js
@@ -42,11 +53,12 @@ A modern Customer Relationship Management system for an Internet Service Provide
 
 ---
 
-### 🤖 AI POS System
+### 🤖 AI-Powered POS System
 
-A Point of Sale system focused on modern inventory management and AI-assisted workflows.
+A modern Point of Sale system focused on inventory management and AI-assisted workflows.
 
 **Tech Stack**
+
 - Laravel
 - React
 - TypeScript
@@ -54,31 +66,54 @@ A Point of Sale system focused on modern inventory management and AI-assisted wo
 
 ---
 
-## 📚 Currently Learning
+<h2 align="center">📚 Currently Learning</h2>
 
 - Advanced Laravel
 - React Best Practices
-- REST APIs
+- REST API Development
 - Database Optimization
 - Clean Architecture
+- Docker
+- CI/CD
 
 ---
 
-## 🎯 Goals for 2026
+<h2 align="center">🎯 Goals for 2026</h2>
 
 - ✅ Build production-ready web applications
 - ✅ Improve software architecture skills
-- ✅ Contribute to open-source projects
-- ✅ Learn Docker
-- ✅ Learn CI/CD
-- ✅ Expand my Full Stack development skills
+- ✅ Learn Docker & DevOps
+- ✅ Contribute to Open Source
+- ✅ Master Full Stack Development
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="left">
-<a href="https://github.com/DendenMUshi-Git">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
