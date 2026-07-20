@@ -16,7 +16,6 @@ Building modern web applications and continuously improving my skills.
 - 🎓 BSIT Graduate
 - 🌱 Currently learning **Laravel, React, TypeScript, and modern web development**
 - 🚀 Developing a **CRM System for an Internet Service Provider**
-- 🤖 Building an **AI-Powered POS System**
 - 🎯 Goal: Become a Full Stack Software Engineer
 
 ---
