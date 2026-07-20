@@ -6,10 +6,17 @@
 
 <p align="center">
 Building modern web applications and continuously improving my skills.
+  
+Code with purpose.
+Live without hatred.
+
+Building solutions, not conflict.
+Always learning.
+
 </p>
 
 <p align="center">
-<i>"Turning ideas into reality through code."</i>
+<i>"I have no enemies."</i>
 </p>
 
 ---
