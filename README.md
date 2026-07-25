@@ -110,38 +110,3 @@ Always learning.
   <img src="https://img.shields.io/badge/DeepSeek-4A90E2?style=for-the-badge&logoColor=white" alt="DeepSeek" />
 </p>
 
----
-
-<h2 align="center">📚 Currently Learning</h2>
-
-<p align="center">
-
-🤖 Artificial Intelligence & AI-Assisted Development<br>
-⚡ Advanced Laravel<br>
-⚛️ React Best Practices<br>
-📘 TypeScript<br>
-📱 Android Development (Kotlin + XML)<br>
-🌐 REST API Development<br>
-🗄️ Database Optimization<br>
-🏗️ Clean Architecture<br>
-🐳 Docker<br>
-🔄 DevOps<br>
-🚀 CI/CD<br>
-☁️ Cloud Deployment
-
-</p>
-
----
-
-<h2 align="center">🎯 Goals for 2026</h2>
-
-<p align="center">
-
-✅ Become a Full Stack Software Engineer<br>
-✅ Improve Software Architecture Skills<br>
-✅ Learn Docker & DevOps<br>
-✅ Contribute to Open Source Projects<br>
-✅ Continue Building Modern Web Applications
-
-</p>
-```
