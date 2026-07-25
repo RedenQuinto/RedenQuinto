@@ -1,8 +1,3 @@
-Here's your complete updated README with **React Native** (already added to Mobile Development) and now **Inertia.js** added to the Frameworks & Libraries section. Everything else remains exactly as you had it—all sections, alignment, animations, colors, spacing, and professional appearance are preserved.
-
----
-
-```markdown
 <h1 align="center">Hi 👋, I'm Red</h1>
 
 <p align="center">
