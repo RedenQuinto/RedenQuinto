@@ -19,29 +19,4 @@
 <h3 align="center">🛠 Development Tools & IDEs</h3><p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,xampp" /> </p><p align="center"> <b>Git • GitHub • VS Code • Android Studio • IntelliJ IDEA • XAMPP</b> </p><p align="center"> <img src="https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Herd" /> </p>
 <h3 align="center">📱 Mobile Development</h3><p align="center"> <img src="https://skillicons.dev/icons?i=kotlin" /> <img src="https://img.shields.io/badge/XML-0055A4?style=for-the-badge&logo=xml&logoColor=white" alt="XML" /> </p><p align="center"> <b>Kotlin • XML</b> </p>
 <h3 align="center">🤖 AI Tools</h3><p align="center"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" /> <img src="https://img.shields.io/badge/DeepSeek-4A90E2?style=for-the-badge&logoColor=white" alt="DeepSeek" /> </p>
-<h2 align="center">📚 Currently Learning</h2><p align="center">
-🤖 Artificial Intelligence & AI-Assisted Development
-
-⚡ Advanced Laravel
-
-⚛️ React Best Practices
-
-📘 TypeScript
-
-📱 Android Development (Kotlin + XML)
-
-🌐 REST API Development
-
-🗄️ Database Optimization
-
-🏗️ Clean Architecture
-
-🐳 Docker
-
-🔄 DevOps
-
-🚀 CI/CD
-
-☁️ Cloud Deployment
-
 </p>
