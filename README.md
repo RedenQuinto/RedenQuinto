@@ -27,7 +27,6 @@ Always learning.
 🎓 BSIT Graduate<br>
 🤖 AI Enthusiast<br>
 🌱 Currently learning <b>Laravel, React, TypeScript, AI, and Modern Web Development</b><br>
-🚀 Developing a <b>CRM System for an Internet Service Provider</b><br>
 🎯 Goal: Become a <b>Full Stack Software Engineer</b>
 
 </p>
